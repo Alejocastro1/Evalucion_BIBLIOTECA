@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Downloads\\Evalucacion\\Evalucacion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A7D108-95BF-4B17-A6D9-020C9C3D4A62}|BibliotecaApp\\BibliotecaApp.csproj|c:\\users\\user\\downloads\\evalucacion\\evalucacion\\bibliotecaapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B8A7D108-95BF-4B17-A6D9-020C9C3D4A62}|BibliotecaApp\\BibliotecaApp.csproj|solutionrelative:bibliotecaapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{018EE3BD-1996-4CEE-ADCD-FA01D54922A6}|Models\\Models.csproj|c:\\users\\user\\downloads\\evalucacion\\evalucacion\\models\\ibuscable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{018EE3BD-1996-4CEE-ADCD-FA01D54922A6}|Models\\Models.csproj|solutionrelative:models\\ibuscable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A7D108-95BF-4B17-A6D9-020C9C3D4A62}|BibliotecaApp\\BibliotecaApp.csproj|c:\\users\\user\\downloads\\evalucacion\\evalucacion\\bibliotecaapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8A7D108-95BF-4B17-A6D9-020C9C3D4A62}|BibliotecaApp\\BibliotecaApp.csproj|solutionrelative:bibliotecaapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{018EE3BD-1996-4CEE-ADCD-FA01D54922A6}|Models\\Models.csproj|c:\\users\\user\\downloads\\evalucacion\\evalucacion\\models\\iregistrable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{018EE3BD-1996-4CEE-ADCD-FA01D54922A6}|Models\\Models.csproj|solutionrelative:models\\iregistrable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{018EE3BD-1996-4CEE-ADCD-FA01D54922A6}|Models\\Models.csproj|c:\\users\\user\\downloads\\evalucacion\\evalucacion\\models\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{018EE3BD-1996-4CEE-ADCD-FA01D54922A6}|Models\\Models.csproj|solutionrelative:models\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{018EE3BD-1996-4CEE-ADCD-FA01D54922A6}|Models\\Models.csproj|c:\\users\\user\\downloads\\evalucacion\\evalucacion\\models\\repositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{018EE3BD-1996-4CEE-ADCD-FA01D54922A6}|Models\\Models.csproj|solutionrelative:models\\repositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{018EE3BD-1996-4CEE-ADCD-FA01D54922A6}|Models\\Models.csproj|c:\\users\\user\\downloads\\evalucacion\\evalucacion\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{018EE3BD-1996-4CEE-ADCD-FA01D54922A6}|Models\\Models.csproj|solutionrelative:models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A7D108-95BF-4B17-A6D9-020C9C3D4A62}|BibliotecaApp\\BibliotecaApp.csproj|c:\\users\\user\\downloads\\evalucacion\\evalucacion\\bibliotecaapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B8A7D108-95BF-4B17-A6D9-020C9C3D4A62}|BibliotecaApp\\BibliotecaApp.csproj|solutionrelative:bibliotecaapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 240,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IBuscable.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\Evalucacion\\Evalucacion\\Models\\IBuscable.cs",
+              "RelativeDocumentMoniker": "Models\\IBuscable.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\Evalucacion\\Evalucacion\\Models\\IBuscable.cs",
+              "RelativeToolTip": "Models\\IBuscable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T21:03:07.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\Evalucacion\\Evalucacion\\BibliotecaApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "BibliotecaApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\Evalucacion\\Evalucacion\\BibliotecaApp\\MainWindow.xaml",
+              "RelativeToolTip": "BibliotecaApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-06T19:25:07.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Repositorio.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\Evalucacion\\Evalucacion\\Models\\Repositorio.cs",
+              "RelativeDocumentMoniker": "Models\\Repositorio.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\Evalucacion\\Evalucacion\\Models\\Repositorio.cs",
+              "RelativeToolTip": "Models\\Repositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T19:52:44.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Utilidades.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\Evalucacion\\Evalucacion\\Models\\Utilidades.cs",
+              "RelativeDocumentMoniker": "Models\\Utilidades.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\Evalucacion\\Evalucacion\\Models\\Utilidades.cs",
+              "RelativeToolTip": "Models\\Utilidades.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T20:50:28.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRegistrable.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\Evalucacion\\Evalucacion\\Models\\IRegistrable.cs",
+              "RelativeDocumentMoniker": "Models\\IRegistrable.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\Evalucacion\\Evalucacion\\Models\\IRegistrable.cs",
+              "RelativeToolTip": "Models\\IRegistrable.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAuwAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T21:04:20.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\Evalucacion\\Evalucacion\\BibliotecaApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "BibliotecaApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\Evalucacion\\Evalucacion\\BibliotecaApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "BibliotecaApp\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T19:24:58.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\Evalucacion\\Evalucacion\\Models\\Persona.cs",
+              "RelativeDocumentMoniker": "Models\\Persona.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\Evalucacion\\Evalucacion\\Models\\Persona.cs",
+              "RelativeToolTip": "Models\\Persona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T19:31:55.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\Evalucacion\\Evalucacion\\BibliotecaApp\\App.xaml",
+              "RelativeDocumentMoniker": "BibliotecaApp\\App.xaml",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\Evalucacion\\Evalucacion\\BibliotecaApp\\App.xaml",
+              "RelativeToolTip": "BibliotecaApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-06T21:25:26.726Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
